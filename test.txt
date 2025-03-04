@@ -2,6 +2,7 @@ kolejna zmiana
 asd asd
 nowa zmiana 
 i nowa asdasd
+<<<<<<< HEAD
 zmiana asdasdas
 nowe zmiany 
 asdasd
@@ -10,3 +11,6 @@ a
 sda
 sd
 as
+=======
+zmiana asdasdas
+>>>>>>> test2
